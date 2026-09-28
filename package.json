@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/shearframe",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Shear config/frame key checks for twelve-factor services.",
+  "bin": {
+    "shearframe": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/shearframe.git"
+  },
+  "homepage": "https://theworker02.github.io/shearframe/",
+  "keywords": [
+    "shear",
+    "frame",
+    "config",
+    "cli",
+    "toolkit"
+  ]
+}
